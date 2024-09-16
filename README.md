@@ -57,11 +57,11 @@ In web above we also learn how to build [Tic Tac Toe](https://react.dev/learn/tu
 
 Maybe i start like antek-antek of freeCodeCamp, but yeah, this web help me lot about learning, and, the certificate of course, it will help us buling up our certification section of our CV.
 
-- [Front End Development Libraries Certification](#https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [Front End Development Libraries Certification](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
 ## **Back End Development and APIs Certification**
 
-- [Back End Development and APIs Certification](#https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
 If we want to learn Next JS, do we have known Back End Development? I think yes, because it will need us to have understand how APIs on Back End is called, and Next JS tutorial below will have a Back End section that I think we must known Back End first.
 
